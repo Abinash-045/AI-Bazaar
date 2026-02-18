@@ -7,7 +7,7 @@ A modern full-stack e-commerce platform with a smooth shopping experience, secur
 ## ✨ Features
 
 - **🔐 Authentication & Security**
-  - JWT-based auth with secure cookie sessions  
+  - JWT-based auth with secure cookie sessions  .
   - Google OAuth login  
   - Protected routes for users and admins  
 
